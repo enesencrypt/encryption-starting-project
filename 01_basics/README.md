@@ -1,9 +1,13 @@
-#01-Cryptography Basics
-This section covers the basics of encryption
+# Cryptography Basics
 
-#Topics
-1-What encryption is
-2-Difference between ecryption and hashing
-3- Symmetric encryption (AES)
+This section covers the basics of encryption and secure data handling.
 
-#Understand how data can be securely encrypted and why passwords should never be stored in plain text format.
+## Topics
+
+- What encryption is
+- Difference between encryption and hashing
+- Symmetric encryption (AES)
+
+# Goal
+
+Understand how data can be securely encrypted and why passwords should never be stored in plain text format.
